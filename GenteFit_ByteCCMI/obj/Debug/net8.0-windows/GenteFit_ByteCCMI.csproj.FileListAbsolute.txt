@@ -124,3 +124,4 @@ C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.PanelRecepcionistaForm.resources
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.GestionarActividadesForm.resources
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarActividades.CrearActividadesForm.resources
+C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.sourcelink.json

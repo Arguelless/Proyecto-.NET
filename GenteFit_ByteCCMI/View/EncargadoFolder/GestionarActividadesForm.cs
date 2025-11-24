@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GenteFit_ByteCCMI.View.EncargadoFolder.GestionarActividades;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,6 +20,15 @@ namespace GenteFit_ByteCCMI.View
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
         {
+
+        }
+
+        private void crearButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            CrearActividadesForm crearActividadForm = new CrearActividadesForm();
+            crearActividadForm.ShowDialog();
+            this.Close();
 
         }
     }

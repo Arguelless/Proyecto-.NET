@@ -43,6 +43,7 @@
             crearButton.TabIndex = 0;
             crearButton.Text = "Crear";
             crearButton.UseVisualStyleBackColor = true;
+            crearButton.Click += crearButton_Click;
             // 
             // modificarButton
             // 
