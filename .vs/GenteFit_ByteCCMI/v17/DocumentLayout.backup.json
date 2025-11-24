@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\encargadofolder\\gestionaractividades\\crearactividadesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\encargadofolder\\gestionaractividades\\crearactividadesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\encargadofolder\\gestionaractividades\\crearactividadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\encargadofolder\\gestionaractividades\\crearactividadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\encargadofolder\\gestionaractividades\\crearactividadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\encargadofolder\\gestionaractividades\\crearactividadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelencargadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelencargadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelencargadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelencargadoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\encargadofolder\\gestionaractividadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\encargadofolder\\gestionaractividadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\encargadofolder\\gestionaractividadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\encargadofolder\\gestionaractividadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\encargadofolder\\gestionaractividadesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\encargadofolder\\gestionaractividadesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelencargadoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelencargadoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelrecepcionistaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelrecepcionistaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelrecepcionistaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelrecepcionistaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelmonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelmonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelmonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelmonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelclienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelclienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\panelclienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\panelclienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|c:\\users\\marca\\source\\repos\\gentefit_byteccmi\\gentefit_byteccmi\\view\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91E17B-B6F7-4A03-8F46-347E2D56F1C2}|GenteFit_ByteCCMI\\GenteFit_ByteCCMI.csproj|solutionrelative:gentefit_byteccmi\\view\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrearActividadesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.Designer.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.Designer.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:46:59.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearActividadesForm.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:46:12.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\Models\\Actividad.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\Models\\Actividad.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\Models\\Actividad.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\Models\\Actividad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:43:27.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearActividadesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividades\\CrearActividadesForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:43:15.191Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestionarActividadesForm.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:27:06.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PanelRecepcionistaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelRecepcionistaForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelRecepcionistaForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelRecepcionistaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelRecepcionistaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:15:17.219Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PanelMonitorForm.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelMonitorForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelMonitorForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelMonitorForm.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelMonitorForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:15:14.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PanelMonitorForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelMonitorForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelMonitorForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelMonitorForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelMonitorForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:15:13.777Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PanelEncargadoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelEncargadoForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelEncargadoForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelEncargadoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelEncargadoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:15:08.969Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:35:55.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\LoginForm.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\LoginForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:31:59.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestionarActividadesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.Designer.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.Designer.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAewEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:27:49.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestionarActividadesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\EncargadoFolder\\GestionarActividadesForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:28:05.586Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PanelEncargadoForm.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelEncargadoForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelEncargadoForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelEncargadoForm.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelEncargadoForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:15:10.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PanelRecepcionistaForm.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelRecepcionistaForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelRecepcionistaForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelRecepcionistaForm.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelRecepcionistaForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:15:18.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PanelEncargadoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelEncargadoForm.Designer.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelEncargadoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelEncargadoForm.Designer.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelEncargadoForm.Designer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAewEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:23:38.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PanelClienteForm.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelClienteForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelClienteForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelClienteForm.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelClienteForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:13:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PanelClienteForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelClienteForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\PanelClienteForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\PanelClienteForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\PanelClienteForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:11:53.02Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:11:37.673Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\View\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\View\\LoginForm.Designer.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\View\\LoginForm.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAEwFEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:41:31.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\Program.cs",
+              "RelativeDocumentMoniker": "GenteFit_ByteCCMI\\Program.cs",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\GenteFit_ByteCCMI\\GenteFit_ByteCCMI\\Program.cs",
+              "RelativeToolTip": "GenteFit_ByteCCMI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:36:01.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
