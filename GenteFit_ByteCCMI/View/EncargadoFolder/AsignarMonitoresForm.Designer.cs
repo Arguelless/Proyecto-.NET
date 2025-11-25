@@ -36,6 +36,7 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
+            backButton = new Button();
             SuspendLayout();
             // 
             // lstMonitores
@@ -46,6 +47,7 @@
             lstMonitores.Name = "lstMonitores";
             lstMonitores.Size = new Size(217, 319);
             lstMonitores.TabIndex = 0;
+            lstMonitores.SelectedIndexChanged += lstMonitores_SelectedIndexChanged;
             // 
             // lstAsignadas
             // 
@@ -55,6 +57,7 @@
             lstAsignadas.Name = "lstAsignadas";
             lstAsignadas.Size = new Size(188, 319);
             lstAsignadas.TabIndex = 1;
+            lstAsignadas.SelectedIndexChanged += lstAsignadas_SelectedIndexChanged;
             // 
             // lstNoAsignadas
             // 
@@ -64,6 +67,7 @@
             lstNoAsignadas.Name = "lstNoAsignadas";
             lstNoAsignadas.Size = new Size(186, 319);
             lstNoAsignadas.TabIndex = 2;
+            lstNoAsignadas.SelectedIndexChanged += lstNoAsignadas_SelectedIndexChanged;
             // 
             // btnAsignar
             // 
@@ -73,6 +77,7 @@
             btnAsignar.TabIndex = 3;
             btnAsignar.Text = "Asignar";
             btnAsignar.UseVisualStyleBackColor = true;
+            btnAsignar.Click += btnAsignar_Click;
             // 
             // btnQuitar
             // 
@@ -82,6 +87,7 @@
             btnQuitar.TabIndex = 4;
             btnQuitar.Text = "Quitar";
             btnQuitar.UseVisualStyleBackColor = true;
+            btnQuitar.Click += btnQuitar_Click;
             // 
             // label1
             // 
@@ -110,11 +116,22 @@
             label3.TabIndex = 7;
             label3.Text = "Actividades realizables";
             // 
+            // backButton
+            // 
+            backButton.Location = new Point(349, 418);
+            backButton.Name = "backButton";
+            backButton.Size = new Size(75, 23);
+            backButton.TabIndex = 10;
+            backButton.Text = "Atrás";
+            backButton.UseVisualStyleBackColor = true;
+            backButton.Click += backButton_Click;
+            // 
             // AsignarMonitoresForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 466);
+            Controls.Add(backButton);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -125,6 +142,7 @@
             Controls.Add(lstMonitores);
             Name = "AsignarMonitoresForm";
             Text = "AsignarMonitoresForm";
+            Load += AsignarMonitoresForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -139,5 +157,6 @@
         private Label label1;
         private Label label2;
         private Label label3;
+        private Button backButton;
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenteFit_ByteCCMI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567fe46da1aaa663f78c996fb7bd0aa4e29d5d11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c6175b4729fbc5add059183c97154fafa9f5454")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenteFit_ByteCCMI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenteFit_ByteCCMI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -74,6 +74,7 @@
             estadoReservasButton.TabIndex = 3;
             estadoReservasButton.Text = "Estado de reservas";
             estadoReservasButton.UseVisualStyleBackColor = true;
+            estadoReservasButton.Click += estadoReservasButton_Click;
             // 
             // label1
             // 

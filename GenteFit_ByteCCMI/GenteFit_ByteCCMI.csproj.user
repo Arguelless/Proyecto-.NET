@@ -4,6 +4,9 @@
     <Compile Update="View\EncargadoFolder\AsignarMonitoresForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\EncargadoFolder\EstadoReservasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\EncargadoFolder\GestionarActividades\GestionarActividadesForm.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -58,5 +58,15 @@ namespace GenteFit_ByteCCMI.View
 
             this.Close();
         }
+
+        private void estadoReservasButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            EstadoReservasForm f = new EstadoReservasForm();
+            f.ShowDialog();
+
+            this.Close();
+        }
     }
 }

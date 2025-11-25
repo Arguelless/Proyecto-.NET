@@ -11,7 +11,7 @@ public class ActividadProgramada
     public DateTime HoraInicio { get; set; }
     public DateTime HoraFin { get; set; }
 
-    public int MonitorId { get; set; }
+    public int? MonitorId { get; set; }
     public Monitor Monitor { get; set; }
 
     public int SalaId { get; set; }

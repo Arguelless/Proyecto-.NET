@@ -130,3 +130,4 @@ C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarSesiones.CrearSesionForm.resources
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarSesiones.GestionarSesionesForm.resources
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarSesiones.ModificarSesionForm.resources
+C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.EstadoReservasForm.resources
