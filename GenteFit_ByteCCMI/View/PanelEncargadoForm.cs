@@ -1,4 +1,6 @@
-﻿using System;
+﻿using GenteFit_ByteCCMI.View.EncargadoFolder;
+using GenteFit_ByteCCMI.View.EncargadoFolder.GestionarSesiones;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -32,6 +34,26 @@ namespace GenteFit_ByteCCMI.View
             this.Hide();
 
             GestionarActividadesForm f = new GestionarActividadesForm();
+            f.ShowDialog();
+
+            this.Close();
+        }
+
+        private void asignarMonitoresButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            AsignarMonitoresForm f = new AsignarMonitoresForm();
+            f.ShowDialog();
+
+            this.Close();
+        }
+
+        private void gestionarSesionesButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            GestionarSesionesForm f = new GestionarSesionesForm();
             f.ShowDialog();
 
             this.Close();

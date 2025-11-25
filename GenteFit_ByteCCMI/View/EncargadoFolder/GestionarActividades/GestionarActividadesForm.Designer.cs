@@ -30,9 +30,10 @@
         {
             crearButton = new Button();
             modificarButton = new Button();
-            button3 = new Button();
+            eliminarButton = new Button();
             consultarButton = new Button();
             actividadesList = new ListBox();
+            backButton = new Button();
             SuspendLayout();
             // 
             // crearButton
@@ -53,15 +54,17 @@
             modificarButton.TabIndex = 1;
             modificarButton.Text = "Modificar";
             modificarButton.UseVisualStyleBackColor = true;
+            modificarButton.Click += modificarButton_Click;
             // 
-            // button3
+            // eliminarButton
             // 
-            button3.Location = new Point(550, 239);
-            button3.Name = "button3";
-            button3.Size = new Size(75, 23);
-            button3.TabIndex = 2;
-            button3.Text = "Eliminar";
-            button3.UseVisualStyleBackColor = true;
+            eliminarButton.Location = new Point(550, 239);
+            eliminarButton.Name = "eliminarButton";
+            eliminarButton.Size = new Size(75, 23);
+            eliminarButton.TabIndex = 2;
+            eliminarButton.Text = "Eliminar";
+            eliminarButton.UseVisualStyleBackColor = true;
+            eliminarButton.Click += eliminarButton_Click;
             // 
             // consultarButton
             // 
@@ -80,19 +83,32 @@
             actividadesList.Name = "actividadesList";
             actividadesList.Size = new Size(341, 274);
             actividadesList.TabIndex = 4;
+            actividadesList.SelectedIndexChanged += actividadesList_SelectedIndexChanged;
+            // 
+            // backButton
+            // 
+            backButton.Location = new Point(365, 388);
+            backButton.Name = "backButton";
+            backButton.Size = new Size(75, 23);
+            backButton.TabIndex = 9;
+            backButton.Text = "Atrás";
+            backButton.UseVisualStyleBackColor = true;
+            backButton.Click += this.backButton_Click;
             // 
             // GestionarActividadesForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(backButton);
             Controls.Add(actividadesList);
             Controls.Add(consultarButton);
-            Controls.Add(button3);
+            Controls.Add(eliminarButton);
             Controls.Add(modificarButton);
             Controls.Add(crearButton);
             Name = "GestionarActividadesForm";
             Text = "GestionarActividadesForm";
+            Load += GestionarActividadesForm_Load;
             ResumeLayout(false);
         }
 
@@ -100,8 +116,9 @@
 
         private Button crearButton;
         private Button modificarButton;
-        private Button button3;
+        private Button eliminarButton;
         private Button consultarButton;
         private ListBox actividadesList;
+        private Button backButton;
     }
 }

@@ -6,14 +6,16 @@ namespace EstructuraBBDD.Data
     public class AppDbContext : DbContext
     {
         public DbSet<Usuario> Usuarios { get; set; }
-        public DbSet<Actividad> Actividades { get; set; }
         public DbSet<Administrador> Administradores { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Encargado> Encargados { get; set; }
         public DbSet<Monitor> Monitores { get; set; }
         public DbSet<Recepcionista> Recepcionistas { get; set; }
-        public DbSet<Reserva> Reservas { get; set; }
+
         public DbSet<Sala> Salas { get; set; }
+        public DbSet<ActividadTipo> ActividadTipos { get; set; }
+        public DbSet<ActividadProgramada> ActividadesProgramadas { get; set; }
+        public DbSet<Reserva> Reservas { get; set; }
 
 
         private string connectionString = "Server=(localdb)\\MSSQLLocalDB;Database=GenteFitBBDD;Trusted_Connection=True;";
@@ -33,23 +35,40 @@ namespace EstructuraBBDD.Data
                 .HasValue<Monitor>("Monitor")
                 .HasValue<Recepcionista>("Recepcionista");
 
-            // ---- 2️⃣ Relaciones con restricción para evitar múltiples cascadas ----
-            // Actividad -> Monitor
-            modelBuilder.Entity<Actividad>()
-                .HasOne(a => a.Monitor)
-                .WithMany(m => m.Actividades)
-                .HasForeignKey(a => a.Id)
-                .OnDelete(DeleteBehavior.Restrict); // evita ciclo
+            // ActividadTipo -> ActividadProgramada
+            modelBuilder.Entity<ActividadProgramada>()
+                .HasOne(ap => ap.ActividadTipo)
+                .WithMany(at => at.ActividadesProgramadas)
+                .HasForeignKey(ap => ap.ActividadTipoId)
+                .OnDelete(DeleteBehavior.Restrict);
 
-            // Reserva -> Cliente
+            // Monitor -> ActividadProgramada
+            modelBuilder.Entity<ActividadProgramada>()
+                .HasOne(ap => ap.Monitor)
+                .WithMany(m => m.Actividades)
+                .HasForeignKey(ap => ap.MonitorId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // Sala -> ActividadProgramada
+            modelBuilder.Entity<ActividadProgramada>()
+                .HasOne(ap => ap.Sala)
+                .WithMany()
+                .HasForeignKey(ap => ap.SalaId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // Cliente -> Reserva
             modelBuilder.Entity<Reserva>()
                 .HasOne(r => r.Cliente)
                 .WithMany(c => c.Reservas)
-                .HasForeignKey(r => r.Id)
-                .OnDelete(DeleteBehavior.Restrict); // evita cascada múltiple
+                .HasForeignKey(r => r.ClienteId)
+                .OnDelete(DeleteBehavior.Restrict);
 
-            // Si hay otras FK con Usuario, usa DeleteBehavior.Restrict o NoAction
+            // ActividadProgramada -> Reserva
+            modelBuilder.Entity<Reserva>()
+                .HasOne(r => r.ActividadProgramada)
+                .WithMany(ap => ap.Reservas)
+                .HasForeignKey(r => r.ActividadProgramadaId)
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
-
 }

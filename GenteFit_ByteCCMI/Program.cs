@@ -20,9 +20,10 @@ namespace GenteFit_ByteCCMI
                 {
                     context.Administradores.Add(new Administrador { Nombre = "admin", Apellidos = "admin", Activo = true, Email = "admin@admin.com", Telefono = "123456789", Password="1234" });
                     context.Clientes.Add(new Cliente { Nombre = "cliente", Apellidos = "cliente", Activo = true, Email = "cliente@cliente.com", Telefono = "987654321", Password="1234", FechaCreacion=DateTime.Now });
-                    context.Encargados.Add(new Encargado { Nombre = "encargado", Apellidos = "encargado", Activo = true, Email = "encargado@encargado.com", Telefono = "555555555", Password="1234" });
+                    context.Encargados.Add(new Encargado { Nombre = "encargado", Apellidos = "encargado", Activo = true, Email = "e", Telefono = "555555555", Password="1234" });
                     context.Monitores.Add(new Monitor { Nombre = "monitor", Apellidos = "monitor", Activo = true, Email = "monitor@monitor.com", Telefono = "444444444", Password="1234" });
                     context.Recepcionistas.Add(new Recepcionista { Nombre = "recepcionista", Apellidos = "recepcionista", Activo = true, Email = "recepcionista@recepcionista.com@", Telefono = "333333333", Password="1234" });
+                    context.Salas.Add(new Sala("Sala A", 16));
                     context.SaveChanges();
                 }
                 

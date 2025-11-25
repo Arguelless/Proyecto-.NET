@@ -34,6 +34,7 @@
             estadoReservasButton = new Button();
             label1 = new Label();
             logoutButton = new Button();
+            gestionarSesionesButton = new Button();
             SuspendLayout();
             // 
             // asignarMonitoresButton
@@ -44,10 +45,11 @@
             asignarMonitoresButton.TabIndex = 0;
             asignarMonitoresButton.Text = "Asignar monitores";
             asignarMonitoresButton.UseVisualStyleBackColor = true;
+            asignarMonitoresButton.Click += asignarMonitoresButton_Click;
             // 
             // listaEsperaButton
             // 
-            listaEsperaButton.Location = new Point(454, 251);
+            listaEsperaButton.Location = new Point(454, 249);
             listaEsperaButton.Name = "listaEsperaButton";
             listaEsperaButton.Size = new Size(175, 23);
             listaEsperaButton.TabIndex = 1;
@@ -66,7 +68,7 @@
             // 
             // estadoReservasButton
             // 
-            estadoReservasButton.Location = new Point(121, 251);
+            estadoReservasButton.Location = new Point(121, 249);
             estadoReservasButton.Name = "estadoReservasButton";
             estadoReservasButton.Size = new Size(175, 23);
             estadoReservasButton.TabIndex = 3;
@@ -85,7 +87,7 @@
             // 
             // logoutButton
             // 
-            logoutButton.Location = new Point(333, 347);
+            logoutButton.Location = new Point(332, 374);
             logoutButton.Name = "logoutButton";
             logoutButton.Size = new Size(83, 23);
             logoutButton.TabIndex = 12;
@@ -93,11 +95,22 @@
             logoutButton.UseVisualStyleBackColor = true;
             logoutButton.Click += logoutButton_Click;
             // 
+            // gestionarSesionesButton
+            // 
+            gestionarSesionesButton.Location = new Point(121, 324);
+            gestionarSesionesButton.Name = "gestionarSesionesButton";
+            gestionarSesionesButton.Size = new Size(175, 23);
+            gestionarSesionesButton.TabIndex = 13;
+            gestionarSesionesButton.Text = "Gestionar sesiones";
+            gestionarSesionesButton.UseVisualStyleBackColor = true;
+            gestionarSesionesButton.Click += gestionarSesionesButton_Click;
+            // 
             // PanelEncargadoForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(gestionarSesionesButton);
             Controls.Add(logoutButton);
             Controls.Add(label1);
             Controls.Add(estadoReservasButton);
@@ -118,5 +131,6 @@
         private Button estadoReservasButton;
         private Label label1;
         private Button logoutButton;
+        private Button gestionarSesionesButton;
     }
 }

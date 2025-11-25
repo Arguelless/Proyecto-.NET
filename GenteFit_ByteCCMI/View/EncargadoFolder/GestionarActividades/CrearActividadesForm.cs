@@ -26,18 +26,6 @@ namespace GenteFit_ByteCCMI.View.EncargadoFolder.GestionarActividades
 
         }
 
-        private void CrearActividadesForm_Load(object sender, EventArgs e)
-        {
-            comboMonitor.DataSource = context.Monitores.ToList();
-            comboMonitor.DisplayMember = "Nombre"; // muestra Nombre en el ComboBox
-            comboMonitor.ValueMember = "Id";
-
-            // Llenar ComboBox de Salas
-            comboSala.DataSource = context.Salas.ToList();
-            comboSala.DisplayMember = "Nombre";
-            comboSala.ValueMember = "Id";
-
-        }
 
         private void guardarButton_Click(object sender, EventArgs e)
         {
@@ -47,35 +35,40 @@ namespace GenteFit_ByteCCMI.View.EncargadoFolder.GestionarActividades
                 return;
             }
 
-            if (comboMonitor.SelectedItem == null || comboSala.SelectedItem == null)
-            {
-                MessageBox.Show("Selecciona un monitor y una sala");
-                return;
-            }
-
             // Crear nueva actividad
-            var actividad = new Actividad
+            var actividad = new ActividadTipo
             {
                 Nombre = nombreTextBox.Text,
                 Descripcion = descripcionTextBox.Text,
-                HoraInicio = horaInicioDatetime.Value,
-                HoraFin = horaFinDatetime.Value,
-                Monitor = (Monitor)comboMonitor.SelectedItem,
-                Sala = (Sala)comboSala.SelectedItem
+                DuracionMinutos = (int)duracionSpinner.Value,
             };
 
-            context.Actividades.Add(actividad);
+            context.ActividadTipos.Add(actividad);
             context.SaveChanges();
 
             MessageBox.Show("Actividad creada correctamente");
             this.DialogResult = DialogResult.OK;
+            this.Hide();
+
+            GestionarActividadesForm gestionarForm = new GestionarActividadesForm();
+            gestionarForm.ShowDialog();
             this.Close();
         }
 
         private void cancelarButton_Click(object sender, EventArgs e)
         {
             this.DialogResult = DialogResult.Cancel;
+            this.Hide();
+
+            GestionarActividadesForm gestionarForm = new GestionarActividadesForm();
+            gestionarForm.ShowDialog();
             this.Close();
+
+        }
+
+        private void CrearActividadesForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

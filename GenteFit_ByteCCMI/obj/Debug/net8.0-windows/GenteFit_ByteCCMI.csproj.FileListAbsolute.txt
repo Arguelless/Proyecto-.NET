@@ -125,3 +125,8 @@ C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.GestionarActividadesForm.resources
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarActividades.CrearActividadesForm.resources
 C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.sourcelink.json
+C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarActividades.ModificarActividadesForm.resources
+C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.AsignarMonitoresForm.resources
+C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarSesiones.CrearSesionForm.resources
+C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarSesiones.GestionarSesionesForm.resources
+C:\Users\marca\source\repos\GenteFit_ByteCCMI\GenteFit_ByteCCMI\obj\Debug\net8.0-windows\GenteFit_ByteCCMI.View.EncargadoFolder.GestionarSesiones.ModificarSesionForm.resources
